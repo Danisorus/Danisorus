@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel or @Danisorus
 - 👀 I’m interested in Data Analytics/Science, Anime, Skateboarding, and Music
-- 🌱 I’m currently learning Data Analytics/Science with Python and Flutter with Dart
-- 💞️ I’m looking to collaborate on Data Analytic projects or Flutter projects
+- 🌱 I’m currently learning Data Analytics/Science with Python
+- 💞️ I’m looking to collaborate on Data Analysis'Science projects
 - 📫 How to reach me daniel.augustine110@gmail.com
 
 <!---
